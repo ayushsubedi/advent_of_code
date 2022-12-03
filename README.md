@@ -1,2 +1,1 @@
-# advent_of_code_2022
-failing at advent of code 2022
+# Advent of Code 2022 (using Python)
