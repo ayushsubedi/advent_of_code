@@ -5,3 +5,5 @@ matplotlib
 numpy
 seaborn
 scikit-learn
+python-dotenv
+advent-of-code-data
